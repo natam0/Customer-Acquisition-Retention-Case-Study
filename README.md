@@ -8,7 +8,7 @@ Managing customer retention and acquisition is essential for developing and main
 
 • Compare the accuracy of model with a decision trees and logistic regression model for acquiring customers.
 
-
-### In here are all files needed to recreate this project or do it on your own.
+### Data
+To access the data in R: load the SMCRM package and execute data(acquisitionRetention).
 
 ### You can check out the markdown file my group and I put together when we worked on it in the Spring of 2025.
