@@ -9,6 +9,8 @@ Managing customer retention and acquisition is essential for developing and main
 • Compare the accuracy of model with a decision trees and logistic regression model for acquiring customers.
 
 
+
+
 In here are all files needed to recreate this project or do it on your own.
 
 You can check out the markdown file my group and I put together when we worked on it in the Spring of 2025.
