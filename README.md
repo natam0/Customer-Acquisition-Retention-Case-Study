@@ -7,12 +7,8 @@ Managing customer retention and acquisition is essential for developing and main
 • Compute variable importance to detect interactions and optimize hyper- parameters for acquired customers.
 
 • Compare the accuracy of model with a decision trees and logistic regression model for acquiring customers.
-/n
-/n
-/n
 
 
+### In here are all files needed to recreate this project or do it on your own.
 
-In here are all files needed to recreate this project or do it on your own.
-
-You can check out the markdown file my group and I put together when we worked on it in the Spring of 2025.
+### You can check out the markdown file my group and I put together when we worked on it in the Spring of 2025.
